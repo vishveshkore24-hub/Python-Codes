@@ -1,0 +1,5 @@
+Deleted : D:\Marvellous_infosystems_Assignments\New folder\New Text Document.txt
+Deleted : D:\Marvellous_infosystems_Assignments\python_Assignment10\Demo.txt
+Deleted : D:\Marvellous_infosystems_Assignments\Python_Assignment14\New folder\New Text Document.txt
+Deleted : D:\Marvellous_infosystems_Assignments\Python_Assignment31\MarvellousLog_Wed_Jul_22_12_22_38_2026.log
+Failed : D:\Marvellous_infosystems_Assignments\DeleteLog.txt : [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Marvellous_infosystems_Assignments\\DeleteLog.txt'
